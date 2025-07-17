@@ -33,4 +33,5 @@ jobs:
         with:
           context: .
           push: true
-          tags: - "subbu567/helloworld-app:latest"
+          tags:
+            - "subbu567/helloworld-app_latest"
